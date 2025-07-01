@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/ # محیط مجازی شما
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.pytest_cache/
+nosetests.xml
+coverage.xml
+htmlcov/
+.ipynb_checkpoints
+.mypy_cache/
+.dmypy.json
+.ruff_cache/
+
+# OS and Editor
+.DS_Store # macOS specific
+.idea/ # PyCharm specific
+*.sublime-project
+*.sublime-workspace
+.vscode/ # تنظیمات VS Code
